@@ -18,14 +18,6 @@ To download the dataset, visit the [Download Page](https://openneuro.org/dataset
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Availability of Additional Data
-
-Structural MRI data are protected and available upon request. To access this data, please contact us. You will need to sign a Data Use Agreement (DUA) to gain access to these data (access granted for researchers).
-
-Description of the MRI data: MRI experiments were conducted using a Siemens Prisma FIT 3T scanner (Siemens Medical Systems, Erlangen, Germany) equipped with a 64-channel phased-array RF head coil. Structural images were acquired with the following parameters: a repetition time (TR) of 2400 ms, an inversion time (TI) of 1000 ms, an echo time (TE) of 2.74 ms, a flip angle of 8 degrees, a field of view (FOV) of 256x256 mm, and a voxel size of 0.8x0.8x0.8 mm. The total acquisition time (TA) for T1-weighted images was 6 minutes and 52 seconds. All MRI files underwent "defacing" using the fsl_deface algorithm (FSL 6.0.6.4 software on Ubuntu).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ## Reporting
 
 > [!IMPORTANT]  
@@ -45,6 +37,14 @@ e.kublik@nencki.edu.pl, p.dzianok@nencki.edu.pl
 * [bioRxiv PREPRINT] Dzianok P, Wojciechowski J, Wolak T, Kublik E. Alzheimer’s disease-like features in resting state EEG/fMRI of cognitively intact and healthy middle-aged APOE/PICALM risk carriers. bioRxiv 2024.06.20.599857. DOI: [10.1101/2024.06.20.599857](https://doi.org/10.1101/2024.06.20.599857)
 * Preprint available soon: Cognitive resilience or vulnerability? The role of APOE/PICALM variants in attention and memory tasks among healthy individuals
 * Preprint available soon: The impact of APOE/PICALM genetic variations on cortical thickness in healthy, middle-aged Alzheimer’s disease risk carriers
+
+## Availability of Additional Data
+
+Structural MRI data are protected and available upon request. To access this data, please contact us. You will need to sign a Data Use Agreement (DUA) to gain access to these data (access granted for researchers).
+
+Description of the MRI data: MRI experiments were conducted using a Siemens Prisma FIT 3T scanner (Siemens Medical Systems, Erlangen, Germany) equipped with a 64-channel phased-array RF head coil. Structural images were acquired with the following parameters: a repetition time (TR) of 2400 ms, an inversion time (TI) of 1000 ms, an echo time (TE) of 2.74 ms, a flip angle of 8 degrees, a field of view (FOV) of 256x256 mm, and a voxel size of 0.8x0.8x0.8 mm. The total acquisition time (TA) for T1-weighted images was 6 minutes and 52 seconds. All MRI files underwent "defacing" using the fsl_deface algorithm (FSL 6.0.6.4 software on Ubuntu).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Funding
 
