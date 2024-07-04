@@ -29,6 +29,8 @@ You can contact us via the emails listed below or connect with us on LinkedIn.
 e.kublik@nencki.edu.pl, p.dzianok@nencki.edu.pl
 ```
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Tracking the research outputs
 
 ### Publications
@@ -37,6 +39,8 @@ e.kublik@nencki.edu.pl, p.dzianok@nencki.edu.pl
 * [bioRxiv PREPRINT] Dzianok P, Wojciechowski J, Wolak T, Kublik E. Alzheimer’s disease-like features in resting state EEG/fMRI of cognitively intact and healthy middle-aged APOE/PICALM risk carriers. bioRxiv 2024.06.20.599857. DOI: [10.1101/2024.06.20.599857](https://doi.org/10.1101/2024.06.20.599857)
 * Preprint available soon: Cognitive resilience or vulnerability? The role of APOE/PICALM variants in attention and memory tasks among healthy individuals
 * Preprint available soon: The impact of APOE/PICALM genetic variations on cortical thickness in healthy, middle-aged Alzheimer’s disease risk carriers
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Availability of Additional Data
 
