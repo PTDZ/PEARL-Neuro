@@ -2,17 +2,17 @@
 This repository provides updates, corrections, and additional information on study details, along with a list of research outputs related to the PEARL-Neuro Dataset. This dataset was released in the spirit of enhancing Open Science and is available for free.
 
 * [Data Descriptor of the dataset](https://www.nature.com/articles/s41597-024-03106-5)
-* [Data Repository at OpenNeuro: includes a brief description of the dataset](https://openneuro.org/datasets/ds004796/versions/1.0.8)
+* [Data Repository at OpenNeuro: includes a brief description of the dataset](https://openneuro.org/datasets/ds004796/versions/1.0.9)
 
 <div id="top"></div>
 
 ## Download
 
-To download the dataset, visit the [Download Page](https://openneuro.org/datasets/ds004796/versions/1.0.8/download) of the OpenNeuro repository. The dataset, prepared in BIDS format, can be downloaded using Node.js, Amazon S3, DataLad, Git Annex, or a shell script.
+To download the dataset, visit the [Download Page](https://openneuro.org/datasets/ds004796/versions/1.0.9/download) of the OpenNeuro repository. The dataset, prepared in BIDS format, can be downloaded using Node.js, Amazon S3, DataLad, Git Annex, or a shell script.
 
 | Downloads | Views | 
 | :---:        |     :---:      |
-| 165   | 6164    |
+| 254   | 7796    |
 
 *Data for 07/2024
 
@@ -35,10 +35,10 @@ e.kublik@nencki.edu.pl, p.dzianok@nencki.edu.pl
 
 ### Publications
 
-* Dzianok P, Kublik E. Altered granulocyte count and erythrocyte measures in middle-aged, healthy carriers of APOE and PICALM risk genes for Alzheimer's disease. Acta Neurobiol Exp. 2023;83(2):127-139. DOI: [10.55782/ane-2023-012](https://doi.org/10.55782/ane-2023-012)
-* [bioRxiv PREPRINT] Dzianok P, Wojciechowski J, Wolak T, Kublik E. Alzheimer’s disease-like features in resting state EEG/fMRI of cognitively intact and healthy middle-aged APOE/PICALM risk carriers. bioRxiv 2024.06.20.599857. DOI: [10.1101/2024.06.20.599857](https://doi.org/10.1101/2024.06.20.599857)
-* Preprint available soon: Cognitive resilience or vulnerability? The role of APOE/PICALM variants in attention and memory tasks among healthy individuals
-* Preprint available soon: The impact of APOE/PICALM genetic variations on cortical thickness in healthy, middle-aged Alzheimer’s disease risk carriers
+* Dzianok P, Kublik E. Altered granulocyte count and erythrocyte measures in middle-aged, healthy carriers of _APOE_ and _PICALM_ risk genes for Alzheimer's disease. Acta Neurobiol Exp. 2023;83(2):127-139. DOI: [10.55782/ane-2023-012](https://doi.org/10.55782/ane-2023-012)
+* [bioRxiv PREPRINT] Dzianok P, Wojciechowski J, Wolak T, Kublik E. Alzheimer’s disease-like features in resting state EEG/fMRI of cognitively intact and healthy middle-aged _APOE/PICALM_ risk carriers. bioRxiv 2024.06.20.599857. DOI: [10.1101/2024.06.20.599857](https://doi.org/10.1101/2024.06.20.599857)
+* Preprint available soon: Cognitive resilience or vulnerability? The role of _APOE/PICALM_ variants in attention and memory tasks among healthy individuals
+* Preprint available soon: The impact of _APOE/PICALM_ genetic variations on cortical thickness in healthy, middle-aged Alzheimer’s disease risk carriers
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
