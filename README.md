@@ -12,7 +12,7 @@ To download the dataset, visit the [Download Page](https://openneuro.org/dataset
 
 | Downloads | Views | 
 | :---:        |     :---:      |
-| 620   | 13 774    |
+| 638   | 14 615    |
 
 *Data for 12/2024
 
@@ -33,12 +33,22 @@ e.kublik@nencki.edu.pl, p.dzianok@nencki.edu.pl
 
 ## Tracking the research outputs
 
-### Publications
+### Publications 
+
+## Our group:
 
 * Dzianok P, Kublik E. Altered granulocyte count and erythrocyte measures in middle-aged, healthy carriers of _APOE_ and _PICALM_ risk genes for Alzheimer's disease. Acta Neurobiol Exp. 2023;83(2):127-139. DOI: [10.55782/ane-2023-012](https://doi.org/10.55782/ane-2023-012)
 * [bioRxiv PREPRINT] Dzianok P, Wojciechowski J, Wolak T, Kublik E. Alzheimer’s disease-like features in resting state EEG/fMRI of cognitively intact and healthy middle-aged _APOE/PICALM_ risk carriers. bioRxiv 2024.06.20.599857. DOI: [10.1101/2024.06.20.599857](https://doi.org/10.1101/2024.06.20.599857)
 * Preprint available soon: Cognitive resilience or vulnerability? The role of _APOE/PICALM_ variants in attention and memory tasks among healthy individuals
 * Preprint available soon: The impact of _APOE/PICALM_ genetic variations on cortical thickness in healthy, middle-aged Alzheimer’s disease risk carriers
+
+## Other groups:
+
+> [!WARNING]
+> We are not the authors of the following papers, which were published by other researchers or laboratories using our dataset. If you have any questions regarding these works, please contact the respective authors directly. Please note that we are providing information about all research outputs utilizing our dataset for the sake of clarity and transparency, regardless of the journal's reputation.
+
+* Li Z, Wang H, Song J, Gong J. Exploring Task-Related EEG for Cross-Subject Early Alzheimer’s Disease Susceptibility Prediction in Middle-Aged Adults Using Multitaper Spectral Analysis. Sensors. 2025; 25(1):52. DOI: [10.3390/s25010052](https://doi.org/10.3390/s25010052)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
