@@ -44,7 +44,7 @@ e.kublik@nencki.edu.pl, p.dzianok@nencki.edu.pl
 
 #### Other groups:
 
-> [!WARNING]
+> [!IMPORTANT]
 > We are not the authors of the following papers, which were published by other researchers or laboratories using our dataset. If you have any questions regarding these works, please contact the respective authors directly. Please note that we are providing information about all research outputs utilizing our dataset for the sake of clarity and transparency, regardless of the journal's reputation.
 
 [Ordered by date]
