@@ -47,7 +47,7 @@ e.kublik@nencki.edu.pl, p.dzianok@nencki.edu.pl
 > [!WARNING]
 > We are not the authors of the following papers, which were published by other researchers or laboratories using our dataset. If you have any questions regarding these works, please contact the respective authors directly. Please note that we are providing information about all research outputs utilizing our dataset for the sake of clarity and transparency, regardless of the journal's reputation.
 
-[Ordered by date.]
+[Ordered by date]
 
 * [arXiv PREPRINT] Wang Y, Huang N, Mammone N, Cecchi M, Zhang X. (2025). arXiv. DOI: [10.48550/arXiv.2502.01678](https://doi.org/10.48550/arXiv.2502.01678)
 * Li Z, Wang H, Song J, Gong J. (2025). Exploring Task-Related EEG for Cross-Subject Early Alzheimer’s Disease Susceptibility Prediction in Middle-Aged Adults Using Multitaper Spectral Analysis. Sensors. DOI: [10.3390/s25010052](https://doi.org/10.3390/s25010052)
