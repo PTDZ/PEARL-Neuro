@@ -49,7 +49,7 @@ e.kublik@nencki.edu.pl, p.dzianok@nencki.edu.pl
 
 [Ordered by date]
 
-* [arXiv PREPRINT] Wang Y, Huang N, Mammone N, Cecchi M, Zhang X. (2025). arXiv. DOI: [10.48550/arXiv.2502.01678](https://doi.org/10.48550/arXiv.2502.01678)
+* [arXiv PREPRINT] Wang Y, Huang N, Mammone N, Cecchi M, Zhang X. (2025). LEAD: Large Foundation Model for EEG-Based Alzheimer's Disease Detection. arXiv. DOI: [10.48550/arXiv.2502.01678](https://doi.org/10.48550/arXiv.2502.01678)
 * Li Z, Wang H, Song J, Gong J. (2025). Exploring Task-Related EEG for Cross-Subject Early Alzheimer’s Disease Susceptibility Prediction in Middle-Aged Adults Using Multitaper Spectral Analysis. Sensors. DOI: [10.3390/s25010052](https://doi.org/10.3390/s25010052)
 
 
