@@ -12,9 +12,9 @@ To download the dataset, visit the [Download Page](https://openneuro.org/dataset
 
 | Downloads | Views | 
 | :---:        |     :---:      |
-| 699   | 16 031    |
+| 889   | 20 082    |
 
-*Data for 02/2025
+*Data for 05/2025
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -38,9 +38,9 @@ e.kublik@nencki.edu.pl, p.dzianok@nencki.edu.pl
 #### Our group:
 
 * Dzianok P, Kublik E. (2023). Altered granulocyte count and erythrocyte measures in middle-aged, healthy carriers of _APOE_ and _PICALM_ risk genes for Alzheimer's disease. Acta Neurobiologiae Experimentalis. DOI: [10.55782/ane-2023-012](https://doi.org/10.55782/ane-2023-012)
-* [bioRxiv PREPRINT] Dzianok P, Wojciechowski J, Wolak T, Kublik E. Alzheimer’s disease-like features in resting state EEG/fMRI of cognitively intact and healthy middle-aged _APOE/PICALM_ risk carriers. (2024). bioRxiv. DOI: [10.1101/2024.06.20.599857](https://doi.org/10.1101/2024.06.20.599857)
+* Dzianok P, Wojciechowski J, Wolak T, Kublik E. Alzheimer’s disease-like features in resting state EEG/fMRI of cognitively intact and healthy middle-aged _APOE/PICALM_ risk carriers. (2025). Journal of Alzheimer's Disease. DOI: [10.1177/13872877251317489](https://doi.org/10.1177/13872877251317489)
+* [bioRxiv PREPRINT] Dzianok P, Wojciechowski J, Wolak T, Kublik E. Cortical thinning in temporal pole, a core region in Alzheimer’s disease, in non-demented, middle-aged _APOE-ε4_ and _PICALM-AA/AG_ carriers. (2025). bioRxiv. DOI: [10.1101/2025.02.21.639542](https://doi.org/10.1101/2025.02.21.639542)
 * Preprint available soon: Cognitive resilience or vulnerability? The role of _APOE/PICALM_ variants in attention and memory tasks among healthy individuals
-* Preprint available soon: The impact of _APOE/PICALM_ genetic variations on cortical thickness in healthy, middle-aged Alzheimer’s disease risk carriers
 
 #### Other groups:
 
@@ -51,7 +51,7 @@ e.kublik@nencki.edu.pl, p.dzianok@nencki.edu.pl
 
 * [arXiv PREPRINT] Wang Y, Huang N, Mammone N, Cecchi M, Zhang X. (2025). LEAD: Large Foundation Model for EEG-Based Alzheimer's Disease Detection. arXiv. DOI: [10.48550/arXiv.2502.01678](https://doi.org/10.48550/arXiv.2502.01678)
 * Li Z, Wang H, Song J, Gong J. (2025). Exploring Task-Related EEG for Cross-Subject Early Alzheimer’s Disease Susceptibility Prediction in Middle-Aged Adults Using Multitaper Spectral Analysis. Sensors. DOI: [10.3390/s25010052](https://doi.org/10.3390/s25010052)
-
+* [TechRxiv PREPRINT] Chowdhury AD. (2024). Towards low cost EEG screening for Alzheimer's Disease. DOI: [10.36227/techrxiv.173014255.59888861/v1](https://doi.org/10.36227/techrxiv.173014255.59888861/v1)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
