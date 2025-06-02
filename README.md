@@ -55,7 +55,7 @@ e.kublik@nencki.edu.pl, p.dzianok@nencki.edu.pl
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Availability of Additional Data
+## Availability of additional data
 
 Structural MRI data are protected and available upon request. To access this data, please contact us. You will need to sign a Data Use Agreement (DUA) to gain access to these data (access granted for researchers).
 
