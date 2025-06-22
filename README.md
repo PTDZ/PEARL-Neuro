@@ -2,17 +2,17 @@
 This repository provides updates, corrections, and additional information on study details, along with a list of research outputs related to the PEARL-Neuro Dataset. This dataset was released in the spirit of enhancing Open Science and is available for free.
 
 * [Data Descriptor of the dataset](https://www.nature.com/articles/s41597-024-03106-5)
-* [Data Repository at OpenNeuro: includes a brief description of the dataset](https://openneuro.org/datasets/ds004796/versions/1.0.9)
+* [Data Repository at OpenNeuro: includes a brief description of the dataset](https://openneuro.org/datasets/ds004796/versions/1.1.0)
 
 <div id="top"></div>
 
 ## Download
 
-To download the dataset, visit the [Download Page](https://openneuro.org/datasets/ds004796/versions/1.0.9/download) of the OpenNeuro repository. The dataset, prepared in BIDS format, can be downloaded using Node.js, Amazon S3, DataLad, Git Annex, or a shell script.
+To download the dataset, visit the [Download Page](https://openneuro.org/datasets/ds004796/versions/1.1.0/download) of the OpenNeuro repository. The dataset, prepared in BIDS format, can be downloaded using Node.js, Amazon S3, DataLad, Git Annex, or a shell script.
 
 | Downloads | Views | 
 | :---:        |     :---:      |
-| 889   | 20 082    |
+| 954   | 21 419    |
 
 *Data for 05/2025
 
