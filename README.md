@@ -12,9 +12,9 @@ To download the dataset, visit the [Download Page](https://openneuro.org/dataset
 
 | Downloads | Views | 
 | :---:        |     :---:      |
-| 954   | 21 419    |
+| 1 058   | 23 848    |
 
-*Data for 05/2025
+*Data for 08/2025
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -49,6 +49,7 @@ e.kublik@nencki.edu.pl, p.dzianok@nencki.edu.pl
 
 [Ordered by date]
 
+* Sihn D, Kim M-K, Kim S-P. (2025). Disrupted theta oscillation propagation in healthy elderly individuals with apolipoprotein E epsilon 4 allele. Frontiers in Neuroscience. DOI: [10.3389/fnins.2025.1579329](https://doi.org/10.3389/fnins.2025.1579329).
 * [arXiv PREPRINT] Wang Y, Huang N, Mammone N, Cecchi M, Zhang X. (2025). LEAD: Large Foundation Model for EEG-Based Alzheimer's Disease Detection. arXiv. DOI: [10.48550/arXiv.2502.01678](https://doi.org/10.48550/arXiv.2502.01678)
 * Li Z, Wang H, Song J, Gong J. (2025). Exploring Task-Related EEG for Cross-Subject Early Alzheimer’s Disease Susceptibility Prediction in Middle-Aged Adults Using Multitaper Spectral Analysis. Sensors. DOI: [10.3390/s25010052](https://doi.org/10.3390/s25010052)
 * [TechRxiv PREPRINT] Chowdhury AD. (2024). Towards low cost EEG screening for Alzheimer's Disease. DOI: [10.36227/techrxiv.173014255.59888861/v1](https://doi.org/10.36227/techrxiv.173014255.59888861/v1)
