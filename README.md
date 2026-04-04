@@ -12,7 +12,7 @@ To download the dataset, visit the [Download Page](https://openneuro.org/dataset
 
 | Downloads | Views | 
 | :---:        |     :---:      |
-| 1 058   | 23 848    |
+| 1 399   | 35 167    |
 
 *Data for 08/2025
 
