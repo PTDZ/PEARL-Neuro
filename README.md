@@ -42,6 +42,10 @@ e.kublik@nencki.edu.pl, p.dzianok@nencki.edu.pl
 * [bioRxiv PREPRINT] Dzianok P, Wojciechowski J, Wolak T, Kublik E. Cortical thinning in temporal pole, a core region in Alzheimer’s disease, in non-demented, middle-aged _APOE-ε4_ and _PICALM-AA/AG_ carriers. (2025). bioRxiv. DOI: [10.1101/2025.02.21.639542](https://doi.org/10.1101/2025.02.21.639542)
 * Preprint available soon: Cognitive resilience or vulnerability? The role of _APOE/PICALM_ variants in attention and memory tasks among healthy individuals
 
+#### In collaboration:
+
+* Legaz A, Moguilner S, Barttfeld P, (...), Ibanez A. (2026). The exposome of brain aging across 34 countries. Nature Medicine. DOI: [10.1038/s41591-026-04302-z](https://doi.org/10.1038/s41591-026-04302-z)
+
 #### Other groups:
 
 > [!IMPORTANT]
